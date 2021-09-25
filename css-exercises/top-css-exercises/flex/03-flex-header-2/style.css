@@ -46,3 +46,22 @@ a {
 ul {
   list-style-type: none;
 }
+
+/*start*/
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+a,
+.logo {
+  padding: 0px 20px 0px 20px;
+}
+
+.move {
+  text-align: center;
+  text-decoration: none;
+  position: right;
+  margin-right: 20px;
+}
